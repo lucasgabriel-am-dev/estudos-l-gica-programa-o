@@ -5,8 +5,9 @@ Repositório para guardar meus exercícios de lógica enquanto estou no Ensino M
 Este repositório foi criado para registrar minha evolução na programação durante o 2º ano do Ensino Médio.
 
 📚 O que estou estudando:
-Lógica de Programação (Curso LazuEdu)
+Lógica de Programação
 Algoritmos e Estruturas de Dados
+Curso LazuEdu
 
 🎯 Objetivo:
 Passar em Engenharia de Software na UFAM!
