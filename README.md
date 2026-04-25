@@ -2,6 +2,7 @@
 Repositório para guardar meus exercícios de lógica enquanto estou no Ensino Médio
 
 🚀 Meus Estudos de Lógica
+
 Este repositório foi criado para registrar minha evolução na programação durante o 2º ano do Ensino Médio.
 
 📚 O que estou estudando:
